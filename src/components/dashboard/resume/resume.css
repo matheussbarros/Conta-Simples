@@ -1,0 +1,42 @@
+.resume .card {
+  padding: 1rem;
+  height: 100%;
+}
+
+.title-card {
+  font-weight: 600;
+  color: #909090;
+}
+.value-money-1 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+.value-money-2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+span.month {
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  color: #909090;
+  font-weight: 600;
+}
+.yield {
+  font-size: 0.6rem;
+  color: #fff;
+  background: #46b34a;
+  padding: 0.2rem 0.4rem;
+  border-radius: 5px;
+}
+.card small {
+  color: #909090;
+  font-size: 0.6rem;
+}
+
+@media (max-width: 1200px){
+  .value-money-1 {
+    font-size: 1.5rem;
+   
+}
+}

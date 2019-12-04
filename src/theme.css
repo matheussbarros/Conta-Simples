@@ -1,0 +1,44 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Section */
+div.admin {
+  padding: 1rem;
+  background-color: #f5f7f4;
+}
+
+
+/*dashboard */
+.dashboard {
+  background-color: transparent;
+}
+
+.dashboard h4 {
+  margin-bottom: 0px;
+  font-weight: 700;
+  font-size: 1.3em;
+}
+
+
+/* cash-flow Component */
+.chart {
+  background-color: #fff;
+  padding: 1.5rem;
+}
+
+
+/* footer */
+
+footer {
+}
+
+.logo-footer {
+  width: 110px;
+}
+
+ul.footer-menu li a {
+  font-weight: bold;
+  font-size: 0.9rem;
+  color: #000;
+}

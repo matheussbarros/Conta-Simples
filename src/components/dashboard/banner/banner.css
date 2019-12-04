@@ -1,0 +1,45 @@
+.banner .bg {
+  background: rgb(27, 192, 150);
+  background: -moz-linear-gradient(
+    90deg,
+    rgba(27, 192, 150, 1) 0%,
+    rgba(108, 236, 161, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(27, 192, 150, 1) 0%,
+    rgba(108, 236, 161, 1) 100%
+  );
+  background: linear-gradient(
+    90deg,
+    rgba(27, 192, 150, 1) 0%,
+    rgba(108, 236, 161, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1bc096",endColorstr="#6ceca1",GradientType=1);
+  padding: 30px 15px;
+  border-radius: 0.5rem;
+}
+.img-banner {
+  max-width: 100%;
+}
+
+.banner h3 {
+  color: #0b6654;
+}
+.banner p {
+  color: #fff;
+}
+button.btn.btn-2 {
+  background: #fff;
+  padding: 0.6rem 2rem;
+  font-weight: 600;
+  color: #0b6654;
+}
+
+.float-img {
+  display: block;
+  width: 280px;
+  float: right;
+  position: relative;
+  top: -84px;
+}

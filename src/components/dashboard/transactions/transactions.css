@@ -1,0 +1,39 @@
+.transaction {
+  margin: 0.9rem 0;
+}
+
+.transaction .far.fa-circle {
+  color: #2c9803;
+}
+.transaction .fas.fa-minus {
+  color: #980303;
+}
+
+.transaction-card {
+  background: #fff;
+  padding: 1rem 0;
+  border-radius: 0.3rem;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.16);
+}
+
+.t-type span {
+  background-color: #e1f9df;
+  padding: 0.1rem 0.5rem;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #068e6b;
+  border-radius: 0.2rem;
+}
+
+.t-name {
+  color: #909090;
+}
+
+.btn-3 {
+  background-color: #48b349;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.8rem;
+  padding: 0.7rem 2rem;
+}

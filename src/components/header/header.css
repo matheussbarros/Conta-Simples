@@ -1,0 +1,68 @@
+header .navbar-brand {
+  display: flex;
+}
+
+header .navbar-brand::after {
+  content: "";
+  background: #f6f6f6;
+  width: 2px;
+  margin-left: 30px;
+}
+
+nav .logo {
+  width: 130px;
+}
+.menu li a.nav-link {
+  border-top: 2px transparent solid;
+  color: #585858;
+  padding: 1.5rem 1rem;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin: 0 .5rem;
+}
+.menu li a.nav-link:hover,
+.menu li a.nav-link.active {
+  text-decoration: none;
+  color: #46b34a;
+  border-top: 2px #2c9803 solid;
+}
+.notification {
+  margin: 0px 30px;
+  font-size: 1.3rem;
+  padding: 0 20px;
+  border-right: 2px #f6f6f6 solid;
+  border-left: 2px #f6f6f6 solid;
+}
+.notification::after,
+.notification::before {
+  content: "";
+  background: #ececec;
+  width: 2px;
+}
+.notification i {
+  color: #3d3d3d;
+}
+.notification .number {
+  position: relative;
+  width: 12px;
+  background-color: #46b34a;
+  display: block;
+  color: #fff;
+  font-size: 10px;
+  border-radius: 50px;
+  text-align: center;
+  top: 16px;
+  left: 12px;
+}
+.user-info .photo img {
+  width: 50px;
+}
+.user-info .user-data {
+  margin: 0rem 1rem;
+  font-size: 0.8rem;
+  color: #3d3d3d;
+}
+.user-info .arrow {
+  display: flex;
+  align-items: center;
+}
