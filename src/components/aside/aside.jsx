@@ -42,8 +42,7 @@ export default prop => (
             <span>Pagamentos</span></a></li>
       </ul>
     </div>
-    <div>
-
+    <div className="mt-2">
       <h6>mais</h6>
       <ul className=" aside-menu nav flex-column">
         <li className="nav-item">
