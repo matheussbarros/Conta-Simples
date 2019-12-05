@@ -66,3 +66,7 @@ nav .logo {
   display: flex;
   align-items: center;
 }
+
+.user-info .arrow a{
+  color: #3d3d3d;
+}

@@ -29,12 +29,6 @@
 .banner p {
   color: #fff;
 }
-button.btn.btn-2 {
-  background: #fff;
-  padding: 0.6rem 2rem;
-  font-weight: 600;
-  color: #0b6654;
-}
 
 .float-img {
   display: block;

@@ -1,5 +1,6 @@
 import React from 'react'
 import './transactions.css'
+import { Button3 } from '../../../utils/ThemeButtons'
 
 export default props => (
 
@@ -88,7 +89,7 @@ export default props => (
     <div className="row">
       <div className="col-12">
         <div className="d-flex justify-content-center mt-3">
-          <button className="btn btn-3">Ver extrato completo</button>
+        <Button3 texto="Ver extrato completo" />  
         </div>
       </div>
     </div>

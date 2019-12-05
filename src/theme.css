@@ -2,6 +2,30 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.btn-1 {
+  background-color: #46b34a;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+button.btn.btn-2 {
+  background: #fff;
+  padding: 0.6rem 2rem;
+  font-weight: 600;
+  color: #0b6654;
+}
+
+.btn-3 {
+  background-color: #48b349;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.8rem;
+  padding: 0.7rem 2rem;
+}
+
+
 /* Section */
 div.admin {
   padding: 1rem;

@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Chart from './Chart'
 
 export default props => (
 
@@ -9,7 +9,7 @@ export default props => (
     <div className="row">
       <div className="col-12">
         <div className="chart mt-3 ">
-          <canvas id="myChart" width="400" height="150"></canvas>
+         <Chart></Chart> 
         </div>
       </div>
     </div>

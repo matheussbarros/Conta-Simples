@@ -3,9 +3,9 @@ import React from 'react'
 export default props => (
 
 
-  <div class="dashboard container-fluid ">
+  <div className="dashboard container-fluid ">
     <div>
-      <div class="container">
+      <div className="container">
         {props.children}
       </div>
     </div>
