@@ -28,6 +28,7 @@ span.month {
   background: #46b34a;
   padding: 0.2rem 0.4rem;
   border-radius: 5px;
+  margin-left: 0.3rem;
 }
 .card small {
   color: #909090;
@@ -39,4 +40,8 @@ span.month {
     font-size: 1.5rem;
    
 }
+}
+
+@media (max-width: 500px){
+
 }

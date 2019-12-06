@@ -37,3 +37,9 @@
   position: relative;
   top: -84px;
 }
+
+@media (max-width: 1229px) {
+  .float-img {
+    top: -51px;
+  }
+}
