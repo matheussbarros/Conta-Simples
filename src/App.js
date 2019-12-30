@@ -1,6 +1,6 @@
 import React from "react";
-import "modules/bootstrap/dist/css/bootstrap.min.css";
-import "modules/@fortawesome/fontawesome-free/css/all.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "@fortawesome/fontawesome-free/css/all.css";
 import "../src/theme.css";
 
 import Header from "./components/header/header";

@@ -18,18 +18,18 @@ yarn install
 
 ### Executando o projeto
 
-Caso use npm, utilize
+Use :
 ```
-npm run dev
-```
-
-Caso use yarn, utilize
-
-```
-yarn dev
+npm start
 ```
 
-Então acesse [`localhost:8080`](http://localhost:8080) no seu navegador
+ou
+
+```
+yarn start
+```
+
+Então acesse [`localhost:3000`](http://localhost:3000) no seu navegador
 
 
 
