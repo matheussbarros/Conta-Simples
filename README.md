@@ -2,6 +2,8 @@
 
  Recriando a interface do  home do Internet Banking da Conta Simples
 
+ [` Veja o exemplo`](https://matheussbarros.github.io/Conta-Simples/) 
+
 ## Instalação
 
 Apos fazer o clone do projeto, acesse a pasta do mesmo e execute
@@ -30,6 +32,8 @@ yarn start
 ```
 
 Então acesse [`localhost:3000`](http://localhost:3000) no seu navegador
+
+
 
 
 
