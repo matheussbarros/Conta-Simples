@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Conta-Simples/home/static/css/main.1d71ffc4.chunk.css",
+    "main.js": "/Conta-Simples/home/static/js/main.68a66360.chunk.js",
+    "main.js.map": "/Conta-Simples/home/static/js/main.68a66360.chunk.js.map",
+    "runtime-main.js": "/Conta-Simples/home/static/js/runtime-main.e7c10161.js",
+    "runtime-main.js.map": "/Conta-Simples/home/static/js/runtime-main.e7c10161.js.map",
+    "static/css/2.439e155c.chunk.css": "/Conta-Simples/home/static/css/2.439e155c.chunk.css",
+    "static/js/2.1e1e6153.chunk.js": "/Conta-Simples/home/static/js/2.1e1e6153.chunk.js",
+    "static/js/2.1e1e6153.chunk.js.map": "/Conta-Simples/home/static/js/2.1e1e6153.chunk.js.map",
+    "index.html": "/Conta-Simples/home/index.html",
+    "precache-manifest.6ee285c00f89413648ca0be0f67fae2e.js": "/Conta-Simples/home/precache-manifest.6ee285c00f89413648ca0be0f67fae2e.js",
+    "service-worker.js": "/Conta-Simples/home/service-worker.js",
+    "static/css/2.439e155c.chunk.css.map": "/Conta-Simples/home/static/css/2.439e155c.chunk.css.map",
+    "static/css/main.1d71ffc4.chunk.css.map": "/Conta-Simples/home/static/css/main.1d71ffc4.chunk.css.map",
+    "static/js/2.1e1e6153.chunk.js.LICENSE": "/Conta-Simples/home/static/js/2.1e1e6153.chunk.js.LICENSE",
+    "static/media/banner.png": "/Conta-Simples/home/static/media/banner.4a4e2d82.png",
+    "static/media/all.css": "/Conta-Simples/home/static/media/fa-solid-900.f6121be5.woff2",
+    "static/media/logo-conta-simples.svg": "/Conta-Simples/home/static/media/logo-conta-simples.79beffd6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7c10161.js",
+    "static/css/2.439e155c.chunk.css",
+    "static/js/2.1e1e6153.chunk.js",
+    "static/css/main.1d71ffc4.chunk.css",
+    "static/js/main.68a66360.chunk.js"
+  ]
+}
